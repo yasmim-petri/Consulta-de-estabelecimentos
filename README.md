@@ -20,7 +20,7 @@ O dataset contém informações detalhadas sobre estabelecimentos e vínculos de
 
 ## Objetivo
 
-Extrair uma tabela com os **estabelecimentos ativos em RJ e SP** entre **2019 e 2023**, incluindo apenas aqueles com **trabalhadores com vínculo ativo**.
+Extrair uma tabela com os **estabelecimentos ativos em RJ e SP** entre **2019 e 2023**, incluindo apenas aqueles com trabalhadores com vínculo ativo.
 
 ## Como usar
 
